@@ -1,0 +1,47 @@
+{
+    "FindTheChicken": {
+        "checkpoints": [
+            {
+                "steps": 499998,
+                "file_path": "results\\config oposite\\FindTheChicken\\FindTheChicken-499998.onnx",
+                "reward": -2.546730529373655,
+                "creation_time": 1734006538.3489366,
+                "auxillary_file_paths": [
+                    "results\\config oposite\\FindTheChicken\\FindTheChicken-499998.pt"
+                ]
+            },
+            {
+                "steps": 999989,
+                "file_path": "results\\config oposite\\FindTheChicken\\FindTheChicken-999989.onnx",
+                "reward": -1.2461532437457488,
+                "creation_time": 1734006852.4135616,
+                "auxillary_file_paths": [
+                    "results\\config oposite\\FindTheChicken\\FindTheChicken-999989.pt"
+                ]
+            },
+            {
+                "steps": 1000127,
+                "file_path": "results\\config oposite\\FindTheChicken\\FindTheChicken-1000127.onnx",
+                "reward": -1.675713705963322,
+                "creation_time": 1734006852.5075576,
+                "auxillary_file_paths": [
+                    "results\\config oposite\\FindTheChicken\\FindTheChicken-1000127.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000127,
+            "file_path": "results\\config oposite\\FindTheChicken.onnx",
+            "reward": -1.675713705963322,
+            "creation_time": 1734006852.5075576,
+            "auxillary_file_paths": [
+                "results\\config oposite\\FindTheChicken\\FindTheChicken-1000127.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
