@@ -1,0 +1,47 @@
+{
+    "FindTheChicken": {
+        "checkpoints": [
+            {
+                "steps": 499989,
+                "file_path": "results\\adjusted ray tags\\FindTheChicken\\FindTheChicken-499989.onnx",
+                "reward": -3.8824879757292172,
+                "creation_time": 1734000510.7286615,
+                "auxillary_file_paths": [
+                    "results\\adjusted ray tags\\FindTheChicken\\FindTheChicken-499989.pt"
+                ]
+            },
+            {
+                "steps": 999993,
+                "file_path": "results\\adjusted ray tags\\FindTheChicken\\FindTheChicken-999993.onnx",
+                "reward": -1.8814802317498014,
+                "creation_time": 1734000942.6718276,
+                "auxillary_file_paths": [
+                    "results\\adjusted ray tags\\FindTheChicken\\FindTheChicken-999993.pt"
+                ]
+            },
+            {
+                "steps": 1000048,
+                "file_path": "results\\adjusted ray tags\\FindTheChicken\\FindTheChicken-1000048.onnx",
+                "reward": -1.8769803581652558,
+                "creation_time": 1734000942.7564893,
+                "auxillary_file_paths": [
+                    "results\\adjusted ray tags\\FindTheChicken\\FindTheChicken-1000048.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000048,
+            "file_path": "results\\adjusted ray tags\\FindTheChicken.onnx",
+            "reward": -1.8769803581652558,
+            "creation_time": 1734000942.7564893,
+            "auxillary_file_paths": [
+                "results\\adjusted ray tags\\FindTheChicken\\FindTheChicken-1000048.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

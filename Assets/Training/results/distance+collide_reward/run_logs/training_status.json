@@ -1,0 +1,47 @@
+{
+    "FindTheChicken": {
+        "checkpoints": [
+            {
+                "steps": 499970,
+                "file_path": "results\\distance+collide_reward\\FindTheChicken\\FindTheChicken-499970.onnx",
+                "reward": -4.340333130955696,
+                "creation_time": 1734004439.511943,
+                "auxillary_file_paths": [
+                    "results\\distance+collide_reward\\FindTheChicken\\FindTheChicken-499970.pt"
+                ]
+            },
+            {
+                "steps": 999997,
+                "file_path": "results\\distance+collide_reward\\FindTheChicken\\FindTheChicken-999997.onnx",
+                "reward": -12.657427488906043,
+                "creation_time": 1734004863.501667,
+                "auxillary_file_paths": [
+                    "results\\distance+collide_reward\\FindTheChicken\\FindTheChicken-999997.pt"
+                ]
+            },
+            {
+                "steps": 1000093,
+                "file_path": "results\\distance+collide_reward\\FindTheChicken\\FindTheChicken-1000093.onnx",
+                "reward": -12.657427488906043,
+                "creation_time": 1734004863.5869749,
+                "auxillary_file_paths": [
+                    "results\\distance+collide_reward\\FindTheChicken\\FindTheChicken-1000093.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000093,
+            "file_path": "results\\distance+collide_reward\\FindTheChicken.onnx",
+            "reward": -12.657427488906043,
+            "creation_time": 1734004863.5869749,
+            "auxillary_file_paths": [
+                "results\\distance+collide_reward\\FindTheChicken\\FindTheChicken-1000093.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

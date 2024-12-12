@@ -1,0 +1,47 @@
+{
+    "FindTheChicken": {
+        "checkpoints": [
+            {
+                "steps": 499983,
+                "file_path": "results\\less reward+chicken\\FindTheChicken\\FindTheChicken-499983.onnx",
+                "reward": -5.097226250367904,
+                "creation_time": 1734003533.6091049,
+                "auxillary_file_paths": [
+                    "results\\less reward+chicken\\FindTheChicken\\FindTheChicken-499983.pt"
+                ]
+            },
+            {
+                "steps": 999976,
+                "file_path": "results\\less reward+chicken\\FindTheChicken\\FindTheChicken-999976.onnx",
+                "reward": -5.782449235444537,
+                "creation_time": 1734003955.1142628,
+                "auxillary_file_paths": [
+                    "results\\less reward+chicken\\FindTheChicken\\FindTheChicken-999976.pt"
+                ]
+            },
+            {
+                "steps": 1000008,
+                "file_path": "results\\less reward+chicken\\FindTheChicken\\FindTheChicken-1000008.onnx",
+                "reward": -5.782449235444537,
+                "creation_time": 1734003955.185043,
+                "auxillary_file_paths": [
+                    "results\\less reward+chicken\\FindTheChicken\\FindTheChicken-1000008.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000008,
+            "file_path": "results\\less reward+chicken\\FindTheChicken.onnx",
+            "reward": -5.782449235444537,
+            "creation_time": 1734003955.185043,
+            "auxillary_file_paths": [
+                "results\\less reward+chicken\\FindTheChicken\\FindTheChicken-1000008.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

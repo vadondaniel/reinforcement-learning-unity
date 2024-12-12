@@ -1,0 +1,29 @@
+{
+    "FindTheChicken": {
+        "checkpoints": [
+            {
+                "steps": 251845,
+                "file_path": "results\\fewObstaclesx9\\FindTheChicken\\FindTheChicken-251845.onnx",
+                "reward": null,
+                "creation_time": 1733955108.395966,
+                "auxillary_file_paths": [
+                    "results\\fewObstaclesx9\\FindTheChicken\\FindTheChicken-251845.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 251845,
+            "file_path": "results\\fewObstaclesx9\\FindTheChicken.onnx",
+            "reward": null,
+            "creation_time": 1733955108.395966,
+            "auxillary_file_paths": [
+                "results\\fewObstaclesx9\\FindTheChicken\\FindTheChicken-251845.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

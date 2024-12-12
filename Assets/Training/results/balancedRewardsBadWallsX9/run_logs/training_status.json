@@ -1,0 +1,38 @@
+{
+    "FindTheChicken": {
+        "checkpoints": [
+            {
+                "steps": 499957,
+                "file_path": "results\\balancedRewardsBadWallsX9\\FindTheChicken\\FindTheChicken-499957.onnx",
+                "reward": 39.00857451132366,
+                "creation_time": 1733956231.569782,
+                "auxillary_file_paths": [
+                    "results\\balancedRewardsBadWallsX9\\FindTheChicken\\FindTheChicken-499957.pt"
+                ]
+            },
+            {
+                "steps": 500021,
+                "file_path": "results\\balancedRewardsBadWallsX9\\FindTheChicken\\FindTheChicken-500021.onnx",
+                "reward": 39.00857451132366,
+                "creation_time": 1733956231.6161666,
+                "auxillary_file_paths": [
+                    "results\\balancedRewardsBadWallsX9\\FindTheChicken\\FindTheChicken-500021.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500021,
+            "file_path": "results\\balancedRewardsBadWallsX9\\FindTheChicken.onnx",
+            "reward": 39.00857451132366,
+            "creation_time": 1733956231.6161666,
+            "auxillary_file_paths": [
+                "results\\balancedRewardsBadWallsX9\\FindTheChicken\\FindTheChicken-500021.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
