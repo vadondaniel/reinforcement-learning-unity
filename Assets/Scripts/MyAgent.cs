@@ -99,19 +99,19 @@ public class MyAgent : Agent
     {
         if (other.tag == "Obstacle")
         {
-            AddReward(-3.0f);
+            AddReward(-8.0f);
             Debug.Log("Hit Obstacle");
             EndEpisode();
         }
         else if (other.tag == "Wall")
         {
-            AddReward(-5.0f);
+            AddReward(-10.0f);
             Debug.Log("Hit Wall");
             EndEpisode();
         }
         else if (other.tag == "Chicken")
         {
-            AddReward(5.0f);
+            AddReward(10.0f);
             Debug.Log("Reached Chicken");
             EndEpisode();
         }
