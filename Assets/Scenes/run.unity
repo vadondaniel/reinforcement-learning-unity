@@ -436,12 +436,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1699342390337525854, guid: b46b160b4409a214682c7ca70a97fe67, type: 3}
       propertyPath: obstacleCount
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4294456289903059852, guid: b46b160b4409a214682c7ca70a97fe67, type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 5022602860645237092, guid: 1d3d8c53b9ea7d94dbe2c67971ab25ba, type: 3}
+      objectReference: {fileID: 5022602860645237092, guid: 84cad3f69d4100940a1cef0fb50ccf71, type: 3}
     - target: {fileID: 5049305591840428333, guid: b46b160b4409a214682c7ca70a97fe67, type: 3}
       propertyPath: m_Name
       value: Environment
